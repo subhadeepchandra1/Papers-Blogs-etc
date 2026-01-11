@@ -7,3 +7,6 @@ https://hemantkgupta.medium.com/insights-from-paper-bitcask-a-log-structured-has
 
 ### Kafka
 https://medium.com/@Dharshan_bc/kafka-ate-my-messages-how-i-silently-lost-data-5829bbc02c91
+
+### HFT (Stock Market)
+https://levelup.gitconnected.com/inside-high-frequency-trading-systems-the-race-to-zero-latency-faa638d0c180
