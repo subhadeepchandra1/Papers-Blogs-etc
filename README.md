@@ -13,3 +13,6 @@ https://levelup.gitconnected.com/inside-high-frequency-trading-systems-the-race-
 
 ### TSDB
 https://docs.google.com/presentation/d/1b5mGL6e0lkXGx2kZxpveoMCv5m93Tx2-hEsePBsGAzI/edit?slide=id.p#slide=id.p
+
+### WAL
+https://unisondb.io/blog/breaking-kv-size-limits-linked-list-wal/
