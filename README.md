@@ -20,6 +20,9 @@ https://unisondb.io/blog/breaking-kv-size-limits-linked-list-wal/
 ### Distributed locks
 https://www.linkedin.com/pulse/distributed-locks-anirudh-sharma-ngoje/
 
+### Server Concurrency
+https://4shutosh.com/nginx-c10k
+
 ## AI Design
 https://corebytes.vercel.app/system-design/designing-rag-over-10m-docs-zero-hallucinations
 
