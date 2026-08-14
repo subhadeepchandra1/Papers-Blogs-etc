@@ -17,8 +17,12 @@ https://docs.google.com/presentation/d/1b5mGL6e0lkXGx2kZxpveoMCv5m93Tx2-hEsePBsG
 ### WAL
 https://unisondb.io/blog/breaking-kv-size-limits-linked-list-wal/
 
+### Distributed locks
+https://www.linkedin.com/pulse/distributed-locks-anirudh-sharma-ngoje/
+
 ## AI Design
 https://corebytes.vercel.app/system-design/designing-rag-over-10m-docs-zero-hallucinations
 
 ### Vector RAG vs Graph RAG
 https://www.systemdesignhandbook.com/guides/graphrag-vs-vector-rag/
+
