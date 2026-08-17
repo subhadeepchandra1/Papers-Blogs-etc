@@ -17,6 +17,9 @@ https://docs.google.com/presentation/d/1b5mGL6e0lkXGx2kZxpveoMCv5m93Tx2-hEsePBsG
 ### WAL
 https://unisondb.io/blog/breaking-kv-size-limits-linked-list-wal/
 
+### Online, Offline, Nearline
+https://masv.io/blog/online-vs-offline-vs-nearline-storage
+
 ### Distributed locks
 https://www.linkedin.com/pulse/distributed-locks-anirudh-sharma-ngoje/
 
