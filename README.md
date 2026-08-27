@@ -26,6 +26,9 @@ https://www.linkedin.com/pulse/distributed-locks-anirudh-sharma-ngoje/
 ### Server Concurrency
 https://4shutosh.com/nginx-c10k
 
+### Cache Stampede
+https://engineeringatscale.substack.com/p/cache-stampede-distributed-locking?r=tjq8x&utm_campaign=post&utm_medium=email&triedRedirect=true
+
 ## AI Design
 https://corebytes.vercel.app/system-design/designing-rag-over-10m-docs-zero-hallucinations
 
