@@ -35,3 +35,7 @@ https://corebytes.vercel.app/system-design/designing-rag-over-10m-docs-zero-hall
 ### Vector RAG vs Graph RAG
 https://www.systemdesignhandbook.com/guides/graphrag-vs-vector-rag/
 
+### Intelligent Routing and vLLM
+https://www.liuxunzhuo.com/llm-routing/
+
+https://www.liuxunzhuo.com/semantic-routing-as-energy-infrastructure/
