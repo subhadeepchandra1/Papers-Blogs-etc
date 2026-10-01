@@ -26,6 +26,9 @@ https://www.linkedin.com/pulse/distributed-locks-anirudh-sharma-ngoje/
 ### Server Concurrency
 https://4shutosh.com/nginx-c10k
 
+### DP in production
+https://tech.makemytrip.com/hotel-availability-and-room-recommendation-algorithm-mmt-6e62c24adf3b
+
 ### Cache Stampede
 https://engineeringatscale.substack.com/p/cache-stampede-distributed-locking?r=tjq8x&utm_campaign=post&utm_medium=email&triedRedirect=true
 
