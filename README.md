@@ -20,6 +20,9 @@ https://unisondb.io/blog/breaking-kv-size-limits-linked-list-wal/
 ### B-Tree vs B+ Tree
 https://medium.com/@kanishk_verma/the-great-b-tree-drama-why-textbooks-lie-and-postgres-wins-in-production-67be84de7afb
 
+### Outbox pattern
+https://medium.com/@dhiralkaniya3146/the-outbox-pattern-how-to-never-lose-an-event-between-your-database-and-your-queue-08d5c304df9c
+
 ### Online, Offline, Nearline
 https://masv.io/blog/online-vs-offline-vs-nearline-storage
 
